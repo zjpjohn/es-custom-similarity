@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+	<modelVersion>4.0.0</modelVersion>
+	<groupId>org.wrl</groupId>
+	<artifactId>es-custom-similarity</artifactId>
+	<version>1.0.0-SNAPSHOT</version>
+	<name>es-custom-similarity</name>
+	<packaging>pom</packaging>
+
+	<description>es-custom-similarity. </description>
+	<url>http://www.github.com/wangruiling/es-custom-similarity</url>
+	<inceptionYear>2015-2018</inceptionYear>
+
+	<properties>
+		<!-- Plugin的属性 -->
+		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+		<java.version>1.8</java.version>
+	</properties>
+
+	<licenses>
+		<license>
+			<name>Apache License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0</url>
+		</license>
+	</licenses>
+
+    <issueManagement>
+        <system>Github</system>
+        <url>https://github.com/wangruiling/es-custom-similarity/issues</url>
+    </issueManagement>
+
+    <scm>
+        <url>https://github.com/wangruiling/es-custom-similarity</url>
+        <connection>scm:git:git://github.com/wangruiling/es-custom-similarity.git</connection>
+        <developerConnection>scm:git:ssh://git@github.com:wangruiling/es-custom-similarity.git</developerConnection>
+    </scm>
+
+	<build>
+		
+	</build>
+</project>
